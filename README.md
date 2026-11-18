@@ -1,6 +1,6 @@
 # CMPE255-Data-Analysis & Machine Learning
 
-Project Overview
+## Project Overview
 
 This repository contains coursework for CMPE 255, focusing on exploratory data analysis, preprocessing, unsupervised learning, automated machine learning, and agentic data analysis.
 
