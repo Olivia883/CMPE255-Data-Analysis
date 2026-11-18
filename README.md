@@ -38,27 +38,27 @@ This section will demonstrate exploratory data analysis using an agentic AI tool
 
 Status: To be completed.
 
-Technologies Used
+### Technologies Used
 
-Python
+- Python
 
-Google Colab
+- Google Colab
 
-Pandas and NumPy
+- Pandas and NumPy
 
-Matplotlib and Seaborn
+- Matplotlib and Seaborn
 
-Scikit-learn
+- Scikit-learn
 
-K-Means clustering
+- K-Means clustering
 
-Isolation Forest
+- Isolation Forest
 
-Principal Component Analysis
+- Principal Component Analysis
 
-AutoViML
+- AutoViML
 
-Dataset Availability
+## Dataset Availability
 
 Some original datasets exceed GitHub's browser-upload size limit and are therefore not included in this repository.
 
@@ -68,7 +68,7 @@ The notebooks include instructions for loading the datasets into Google Colab.
 
 # Video Demonstrations
 
-The required video walkthroughs will be added here.
+The video walkthroughs will be added here.
 
 Part 1 — Code Walkthrough: [YouTube link to be added]
 
@@ -78,7 +78,7 @@ Part 2 — Code Walkthrough: [YouTube link to be added]
 
 Part 2 — User Journey: [YouTube link to be added]
 
-Conclusion
+# Conclusion
 
 This project explores how data preprocessing, exploratory analysis, clustering, anomaly detection, and automated machine learning can be applied to tabular and time-series datasets.
 
