@@ -61,15 +61,6 @@ The dataset was divided into training and testing sets using an 80/20 split.
 
 Model performance should be interpreted using the evaluation results generated in the notebook.
 
-## How to Run
-
-1. Open `NYC_Airbnb_EDA.ipynb` in Google Colab.
-2. Download `AB_NYC_2019.csv` from the dataset source if it is not included in the repository.
-3. Upload the dataset when prompted.
-4. Install the required libraries.
-5. Execute the notebook cells in order.
-6. Review the generated visualizations, clustering results, and model evaluation.
-
 ## Key Findings
 
 The analysis demonstrates that Airbnb listings vary considerably in price, availability, minimum-stay requirements, and other characteristics.
