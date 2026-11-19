@@ -18,7 +18,7 @@ The NYC Airbnb dataset contains information about New York City rental listings.
 
 The analysis includes data cleaning, exploratory visualizations, feature engineering, K-Means clustering, anomaly detection, and AutoViML regression modeling.
 
-Notebook: Part1/NYC_Airbnb/NYC_Airbnb_EDA.ipynb
+**Notebook:** [NYC Airbnb Analysis](Part1/NYC_Airbnb/NYC_Airbnb_EDA.ipynb)
 
 Dataset source: https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data
 
@@ -28,13 +28,13 @@ The household power consumption dataset contains time-series measurements of ele
 
 The analysis includes missing-value handling, time-series visualization, feature engineering, K-Means clustering, anomaly detection, and AutoViML regression modeling.
 
-Notebook: Part1/Time_Series/Household_Power_Analysis.ipynb
+**Notebook:** [Household Power Analysis](Part1/Time_Series/Household_Power_Analysis.ipynb)
 
 Dataset source: https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption
 
 # Part 2: Agentic Exploratory Data Analysis
 
-This section will demonstrate exploratory data analysis using an agentic AI tool.
+This section demonstrates exploratory data analysis using an agentic AI tool.
 
 Status: To be completed.
 
@@ -89,3 +89,27 @@ Walkthrough Video: [YouTube link to be added]
 This project explores how data preprocessing, exploratory analysis, clustering, anomaly detection, and automated machine learning can be applied to tabular and time-series datasets.
 
 The two datasets provide different perspectives on data analysis and demonstrate how machine-learning workflows can be adapted to different types of data.
+
+# Key Results
+
+### NYC Airbnb
+- Analyzed 48,895 Airbnb listings.
+
+- Removed 11 zero-price records during cleaning.
+
+- Applied K-Means clustering and selected 8 clusters.
+
+- Used Isolation Forest to identify potentially unusual listings.
+
+- Applied AutoViML for Airbnb price prediction.
+
+### Household Power Consumption
+- Explored hourly, daily, monthly, and seasonal electricity consumption.
+
+- Applied K-Means to identify different electricity usage patterns.
+
+- Used Isolation Forest to identify unusual consumption observations.
+
+- Trained an AutoViML regression model to predict next-hour electricity consumption.
+
+- Evaluated the model using MAE, RMSE, and R² and compared it with a persistence baseline.
