@@ -68,9 +68,7 @@ The notebooks include instructions for loading the datasets into Google Colab.
 
 # Video Demonstrations
 
-The video Links will be added here.
-
-Part 1 — Data Analysis and Machine Learning
+### Part 1 — Data Analysis and Machine Learning
 
 Combined Code Walkthrough and User Journey
 
@@ -78,7 +76,7 @@ This video demonstrates the NYC Airbnb and Household Power Consumption notebooks
 
 Walkthrough Video: [YouTube link to be added]
 
-Part 2 — Agentic Exploratory Data Analysis
+### Part 2 — Agentic Exploratory Data Analysis
 
 Combined Code Walkthrough and User Journey
 
