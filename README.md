@@ -68,15 +68,23 @@ The notebooks include instructions for loading the datasets into Google Colab.
 
 # Video Demonstrations
 
-The video walkthroughs will be added here.
+The video Links will be added here.
 
-Part 1 — Code Walkthrough: [YouTube link to be added]
+Part 1 — Data Analysis and Machine Learning
 
-Part 1 — User Journey: [YouTube link to be added]
+Combined Code Walkthrough and User Journey
 
-Part 2 — Code Walkthrough: [YouTube link to be added]
+This video demonstrates the NYC Airbnb and Household Power Consumption notebooks, including data cleaning, visualizations, clustering, anomaly detection, AutoViML modeling, and how to run the notebooks.
 
-Part 2 — User Journey: [YouTube link to be added]
+Walkthrough Video: [YouTube link to be added]
+
+Part 2 — Agentic Exploratory Data Analysis
+
+Combined Code Walkthrough and User Journey
+
+This video demonstrates the agentic EDA tool, its setup, code, data analysis process, results, and user journey.
+
+Walkthrough Video: [YouTube link to be added]
 
 # Conclusion
 
